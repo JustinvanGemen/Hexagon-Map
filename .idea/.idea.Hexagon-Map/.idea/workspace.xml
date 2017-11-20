@@ -5,7 +5,17 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Hexagon-Map/.idea/contentModel.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Hexagon-Map/.idea/modules.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Hexagon-Map/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Hexagon-Map/.idea/workspace.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Hexagon-Map/riderModule.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Hexagon/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Hexagon/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Materials.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Materials/Vertex Colors.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Materials/Vertex Colors.mat.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Materials/VertexColors.shader" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Materials/VertexColors.shader.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Prefabs/Hex Cell Label.prefab" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Prefabs/Hex Cell Label.prefab.meta" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Hexagon/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Hexagon/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Main.unity" afterPath="$PROJECT_DIR$/Assets/Main.unity" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Main.unity.meta" afterPath="$PROJECT_DIR$/Assets/Main.unity.meta" />
@@ -42,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/_Scripts/HexMesh.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
-              <caret line="29" column="25" lean-forward="false" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+              <caret line="29" column="45" lean-forward="true" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
               <folding>
                 <marker date="1511187183806" expanded="false" signature="6:52" ph="..." />
                 <marker date="1511187183806" expanded="true" signature="152:1623" ph="{...}" />
@@ -189,12 +199,12 @@
       <option name="presentableId" value="Default" />
       <updated>1511183251601</updated>
       <workItem from="1511183301176" duration="522000" />
-      <workItem from="1511183959129" duration="2771000" />
+      <workItem from="1511183959129" duration="2806000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3293000" />
+    <option name="totallyTimeSpent" value="3328000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -342,7 +352,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/_Scripts/HexMesh.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="29" column="25" lean-forward="false" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+          <caret line="29" column="45" lean-forward="true" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
           <folding>
             <marker date="1511187183806" expanded="false" signature="6:52" ph="..." />
             <marker date="1511187183806" expanded="true" signature="152:1623" ph="{...}" />
