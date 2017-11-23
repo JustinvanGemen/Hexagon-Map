@@ -6,7 +6,7 @@ Unity
 
 Authors
 
-Justin van Gemen - Initial work - PurpleBooth
+Justin van Gemen
 
 Acknowledgments
 
